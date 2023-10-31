@@ -1,0 +1,3 @@
+After evaluating the models using ROUGE scores, it was observed that the 'google/pegasus-xsum' model performed the best with an average ROUGE score of 0.48, outperforming 't5-small' and 'facebook/bart-base', which scored 0.4 and 0.45, respectively. This model showed superior performance in summarizing the given dataset of articles and their summaries.
+
+Remember, for the code to work, you need to replace the placeholder data and functions with actual data loading, ROUGE score calculation, and model evaluation logic.
